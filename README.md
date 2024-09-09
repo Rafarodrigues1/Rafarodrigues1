@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💖
 
-<!--
-**Rafarodrigues1/Rafarodrigues1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Rafaela Rodrigues
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br/?srsltid=AfmBOopx7b7PXcK7GQD_ffzraJ2-nU-NdmfAm_5aaKZsg9YFVQgbJsO-)
+- Estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço pra minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  00001118643860sp@al.educacao.sp.gov.br
+  
+  @rafard_
+
+![](  https://tenor.com/pt-BR/view/hh-gif-257270831)
+  
